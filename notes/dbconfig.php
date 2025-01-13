@@ -1,9 +1,9 @@
 
 <?php
 $host = 'localhost'; // Database host
-$db_name = 'vcluygjj_new_website'; // Database name
-$username = 'vcluygjj_attendance'; // Database username
-$password = 'om2002lopa'; // Database password
+$db_name = ''; // Database name
+$username = ''; // Database username
+$password = ''; // Database password
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db_name", $username, $password);
