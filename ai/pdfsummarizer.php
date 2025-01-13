@@ -69,7 +69,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["pdfFile"])) {
                            dirname($_SERVER['REQUEST_URI']) . '/' . $target_file;
                 
                 // Call Gemini API
-                $api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyAt_a5BOeb8gwlCtaolAvIQ3ycj2NxQKhU";
+                $api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=";
                 
                 $data = array(
                     "contents" => array(
