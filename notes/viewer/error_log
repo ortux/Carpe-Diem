@@ -1,0 +1,32 @@
+[13-Jan-2025 07:07:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vcluygjj_study_app.notes' doesn't exist in /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php:4
+Stack trace:
+#0 /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php(4): PDO->query('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php on line 4
+[13-Jan-2025 07:09:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vcluygjj_study_app.notes' doesn't exist in /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php:4
+Stack trace:
+#0 /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php(4): PDO->query('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php on line 4
+[13-Jan-2025 07:19:01 UTC] PHP Warning:  include(../component/sidebar.php): Failed to open stream: No such file or directory in /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php on line 61
+[13-Jan-2025 07:19:01 UTC] PHP Stack trace:
+[13-Jan-2025 07:19:01 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php:0
+[13-Jan-2025 07:19:01 UTC] PHP Warning:  include(): Failed opening '../component/sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php on line 61
+[13-Jan-2025 07:19:01 UTC] PHP Stack trace:
+[13-Jan-2025 07:19:01 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php:0
+[13-Jan-2025 16:54:24 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 16:54:24 UTC] PHP Stack trace:
+[13-Jan-2025 16:54:24 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php:0
+[13-Jan-2025 16:54:24 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/notes/viewer/view_notes.php:61
+[13-Jan-2025 16:54:26 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 16:54:26 UTC] PHP Stack trace:
+[13-Jan-2025 16:54:26 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/notes/viewer/view_lessons.php:0
+[13-Jan-2025 16:54:26 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/notes/viewer/view_lessons.php:91
+[13-Jan-2025 18:01:04 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:01:04 UTC] PHP Stack trace:
+[13-Jan-2025 18:01:04 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/notes/viewer/view_lessons.php:0
+[13-Jan-2025 18:01:04 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/notes/viewer/view_lessons.php:91
+[13-Jan-2025 18:54:56 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:54:56 UTC] PHP Stack trace:
+[13-Jan-2025 18:54:56 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/notes/viewer/view_lessons.php:0
+[13-Jan-2025 18:54:56 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/notes/viewer/view_lessons.php:91

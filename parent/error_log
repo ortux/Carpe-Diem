@@ -1,0 +1,40 @@
+[13-Jan-2025 09:53:26 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 09:53:26 UTC] PHP Stack trace:
+[13-Jan-2025 09:53:26 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 09:53:26 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:34
+[13-Jan-2025 09:55:42 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 09:55:42 UTC] PHP Stack trace:
+[13-Jan-2025 09:55:42 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 09:55:42 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:36
+[13-Jan-2025 09:56:48 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 09:56:48 UTC] PHP Stack trace:
+[13-Jan-2025 09:56:48 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 09:56:48 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:36
+[13-Jan-2025 09:57:21 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 09:57:21 UTC] PHP Stack trace:
+[13-Jan-2025 09:57:21 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 09:57:21 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:36
+[13-Jan-2025 09:59:05 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 09:59:05 UTC] PHP Stack trace:
+[13-Jan-2025 09:59:05 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 09:59:05 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:36
+[13-Jan-2025 09:59:47 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 09:59:47 UTC] PHP Stack trace:
+[13-Jan-2025 09:59:47 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 09:59:47 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:36
+[13-Jan-2025 10:01:49 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 10:01:49 UTC] PHP Stack trace:
+[13-Jan-2025 10:01:49 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 10:01:49 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:44
+[13-Jan-2025 10:03:59 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 10:03:59 UTC] PHP Stack trace:
+[13-Jan-2025 10:03:59 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 10:03:59 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:43
+[13-Jan-2025 10:05:03 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 10:05:03 UTC] PHP Stack trace:
+[13-Jan-2025 10:05:03 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 10:05:03 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:43
+[13-Jan-2025 10:08:53 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar_parent.php on line 2
+[13-Jan-2025 10:08:53 UTC] PHP Stack trace:
+[13-Jan-2025 10:08:53 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/parent/dashboard.php:0
+[13-Jan-2025 10:08:53 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/parent/dashboard.php:48

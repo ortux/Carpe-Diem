@@ -1,0 +1,71 @@
+[13-Jan-2025 18:05:05 UTC] PHP Warning:  Undefined array key "questions" in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 177
+[13-Jan-2025 18:05:05 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:05 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 177
+[13-Jan-2025 18:05:05 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:05 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:05 UTC] PHP Warning:  Undefined array key "questions" in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 226
+[13-Jan-2025 18:05:05 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:05 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:40 UTC] PHP Warning:  Undefined array key "questions" in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 177
+[13-Jan-2025 18:05:40 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:40 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 177
+[13-Jan-2025 18:05:40 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:40 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:40 UTC] PHP Warning:  Undefined array key "questions" in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 226
+[13-Jan-2025 18:05:40 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:40 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:54 UTC] PHP Warning:  Undefined array key "questions" in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 177
+[13-Jan-2025 18:05:54 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:54 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 177
+[13-Jan-2025 18:05:54 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:54 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:05:54 UTC] PHP Warning:  Undefined array key "questions" in /home/vcluygjj/public_html/tester/ai/aiquestion.php on line 226
+[13-Jan-2025 18:05:54 UTC] PHP Stack trace:
+[13-Jan-2025 18:05:54 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:47:01 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:47:01 UTC] PHP Stack trace:
+[13-Jan-2025 18:47:01 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:47:01 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/aiquestion.php:114
+[13-Jan-2025 18:47:12 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:47:12 UTC] PHP Stack trace:
+[13-Jan-2025 18:47:12 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:47:12 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/aiquestion.php:114
+[13-Jan-2025 18:47:25 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:47:25 UTC] PHP Stack trace:
+[13-Jan-2025 18:47:25 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/aiquestion.php:0
+[13-Jan-2025 18:47:25 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/aiquestion.php:114
+[13-Jan-2025 18:48:38 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:48:38 UTC] PHP Stack trace:
+[13-Jan-2025 18:48:38 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/diagramunderstander.php:0
+[13-Jan-2025 18:48:38 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/diagramunderstander.php:173
+[13-Jan-2025 18:48:57 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:48:57 UTC] PHP Stack trace:
+[13-Jan-2025 18:48:57 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/diagramunderstander.php:0
+[13-Jan-2025 18:48:57 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/diagramunderstander.php:173
+[13-Jan-2025 18:49:12 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:49:12 UTC] PHP Stack trace:
+[13-Jan-2025 18:49:12 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/diagramunderstander.php:0
+[13-Jan-2025 18:49:12 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/diagramunderstander.php:173
+[13-Jan-2025 18:49:58 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:49:58 UTC] PHP Stack trace:
+[13-Jan-2025 18:49:58 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/summarize.php:0
+[13-Jan-2025 18:49:58 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/summarize.php:72
+[13-Jan-2025 18:51:10 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:51:10 UTC] PHP Stack trace:
+[13-Jan-2025 18:51:10 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:0
+[13-Jan-2025 18:51:10 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:138
+[13-Jan-2025 18:52:09 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:52:09 UTC] PHP Stack trace:
+[13-Jan-2025 18:52:09 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:0
+[13-Jan-2025 18:52:09 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:136
+[13-Jan-2025 18:52:23 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:52:23 UTC] PHP Stack trace:
+[13-Jan-2025 18:52:23 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:0
+[13-Jan-2025 18:52:23 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:136
+[13-Jan-2025 18:52:47 UTC] PHP Warning:  Undefined array key "usercode" in /home/vcluygjj/public_html/tester/component/sidebar.php on line 2
+[13-Jan-2025 18:52:47 UTC] PHP Stack trace:
+[13-Jan-2025 18:52:47 UTC] PHP   1. {main}() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:0
+[13-Jan-2025 18:52:47 UTC] PHP   2. include() /home/vcluygjj/public_html/tester/ai/pdfsummarizer.php:136
