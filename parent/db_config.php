@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $servername = "localhost"; // Typically localhost for local development
-$username = "vcluygjj_attendance"; // Your database username
-$password = "om2002lopa"; // Your database password
-$dbname = "vcluygjj_study_app"; // Name of the database
+$username = ""; // Your database username
+$password = ""; // Your database password
+$dbname = ""; // Name of the database
 
 // Create connection using MySQLi
 $conn = new mysqli($servername, $username, $password, $dbname);
