@@ -1,9 +1,9 @@
 <?php
 // Connect to MySQL Database (adjust credentials as needed)
 $servername = "localhost";
-$username = "vcluygjj_attendance";
-$password = "om2002lopa"; // Enter your password
-$dbname = "vcluygjj_study_app";
+$username = "";
+$password = ""; // Enter your password
+$dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
