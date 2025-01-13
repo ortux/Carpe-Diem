@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['webpage_url'])) {
     $webpage_url = $_POST['webpage_url'];
 
     // The API URL and API Key
-    $url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyAt_a5BOeb8gwlCtaolAvIQ3ycj2NxQKhU";
+    $url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=";
 
     // The data to send in the POST request
     $data = [
