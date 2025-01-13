@@ -1,9 +1,9 @@
 <?php
 // Set up database connection
 $host = 'localhost';
-$dbname = 'vcluygjj_study_app';
-$username = 'vcluygjj_attendance';  // Change to your MySQL username
-$password = 'om2002lopa';      // Change to your MySQL password
+$dbname = '';
+$username = '';  // Change to your MySQL username
+$password = '';      // Change to your MySQL password
 $dsn = "mysql:host=$host;dbname=$dbname;charset=UTF8";
 
 try {
