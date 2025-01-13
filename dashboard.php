@@ -176,9 +176,9 @@ if (!isset($_COOKIE['username'])) {
                 </h1>
                 <?php
                 $servername = "localhost";
-                $username = "vcluygjj_attendance";
-                $password = "om2002lopa";
-                $dbname = "vcluygjj_study_app";
+                $username = "";
+                $password = "";
+                $dbname = "";
 
                 $conn = mysqli_connect($servername, $username, $password, $dbname);
                 if (!$conn)
